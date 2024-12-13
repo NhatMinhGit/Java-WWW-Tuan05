@@ -24,4 +24,3 @@
       + Có thể sửa hồ sơ của công ty
 - LƯU Ý KHI SỬ DỤNG
    + Không sử dụng tiếng việt có dấu (vì data sql setup không hổ trợ tiếng Việt có dấu)
-- MACHINE LEARNING (CHƯA LÀM ĐƯỢC)
